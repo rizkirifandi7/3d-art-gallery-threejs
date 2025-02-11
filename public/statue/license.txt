@@ -1,0 +1,8 @@
+Model Information:
+* title:	Thomas Eakins Plaster Statue Scan
+* source:	https://sketchfab.com/3d-models/thomas-eakins-plaster-statue-scan-93199413c1524472a4668b9aedc4845f
+* author:	Austin Beaulier (https://sketchfab.com/Austin.Beaulier)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
