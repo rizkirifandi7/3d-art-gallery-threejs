@@ -1,8 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-	base: "/",
-	assetsInclude: ["**/*.jpg", "**/*.png", "**/*.glb", "**/*.gltf"],
+	base: "/3D-art-gallery-threejs",
 	build: {
 		rollupOptions: {
 			input: "/main.js",
