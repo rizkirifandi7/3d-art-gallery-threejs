@@ -4,9 +4,11 @@
 		"name": "Rizki Rifani",
 		"email": "rizkirifani7@gmail.com"
 	},
+	"main": "index.js",
 	"scripts": {
 		"build": "vite build",
-		"start": "vite"
+		"dev": "vite",
+		"start": "vite preview"
 	},
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
 	"dependencies": {
